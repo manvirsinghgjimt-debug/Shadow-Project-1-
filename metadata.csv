@@ -1,0 +1,11 @@
+page_id,title,filename,category,keywords,popularity,updated,links
+1,AI-Integrated MCA Program at GJIMT,site01.html,Education,"MCA, AI, GJIMT, admissions, program, course, semester",88,2026-04-15,site02.html;site05.html
+2,Top Coding Skills for MCA Students,site02.html,Education,"coding, MCA, Python, DSA, algorithms, web development, AI tools",75,2026-04-16,site01.html;site09.html
+3,"AI Lab at GJIMT – Tools, Projects, and Learning",site03.html,Education,"AI lab, GJIMT, ChatGPT, Gemini, Copilot, projects, machine learning",80,2026-04-14,site01.html;site04.html
+4,Coding Club Activities at GJIMT,site04.html,Education,"coding club, GJIMT, hackathon, competitive programming, MCA, contests",70,2026-04-13,site03.html;site05.html
+5,Placement Opportunities for MCA Graduates at GJIMT,site05.html,Education,"placements, MCA, GJIMT, jobs, software engineer, career, IT companies",92,2026-04-17,site04.html;site06.html
+6,Data Structures and Algorithms Guide for MCA,site06.html,Education,"DSA, data structures, algorithms, MCA, arrays, trees, sorting, searching",83,2026-04-12,site02.html;site07.html
+7,How to Use GitHub Copilot in Your MCA Projects,site07.html,Education,"GitHub Copilot, AI coding, MCA, refactor, code suggestions, productivity, programming",68,2026-04-11,site06.html;site08.html
+8,How to Write a Mini Project Report for MCA,site08.html,Education,"project report, MCA, documentation, Notion AI, Grammarly, technical writing, report structure",65,2026-04-10,site07.html;site10.html
+9,Python Basics for Beginners in MCA,site09.html,Education,"Python, beginners, MCA, programming, syntax, functions, loops, basics",78,2026-04-09,site02.html;site06.html
+10,Viva Preparation Tips for MCA Shadow Projects,site10.html,Education,"viva, MCA, shadow project, preparation, interview, algorithm, explanation, GJIMT",72,2026-04-18,site01.html;site08.html
